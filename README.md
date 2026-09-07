@@ -130,10 +130,6 @@ Setiap kategori diubah menjadi kolom numerik terpisah dengan nilai:
   Pada tahap transformation, jumlah kolom bertambah karena dilakukan penambahan kolom hasil Min-Max Scaling, Frequency Encoding, dan One-Hot Encoding.
 
 ## 9. Cara menginstal dependency
-- Buat venv:
-  `python -m venv venv`
-- Aktifkan virtual environment:
-  `venv\Scripts\activate`
 - Install dependency:
   `pip install -r requirements.txt`
 
